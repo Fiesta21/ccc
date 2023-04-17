@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\duglo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\duglo\\.nuget\\packages"
+    ]
+  }
+}
